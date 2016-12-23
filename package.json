@@ -11,15 +11,14 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "teste"
+    "test": "heroko"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/glauber-barboza/faceboot.git"
   },
   "keywords": [
-    "nao",
-    "criado"
+    "nao"
   ],
   "author": "Glauber",
   "license": "UNLICENSED",
