@@ -1,0 +1,30 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "faceboot",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "facebook-chat-api": "^1.2.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glauber-barboza/faceboot.git"
+  },
+  "keywords": [
+    "nao",
+    "criado"
+  ],
+  "author": "Glauber",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/glauber-barboza/faceboot/issues"
+  },
+  "homepage": "https://github.com/glauber-barboza/faceboot#readme"
+}
